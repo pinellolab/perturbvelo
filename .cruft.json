@@ -1,23 +1,23 @@
 {
-  "template": "https://github.com/scverse/cookiecutter-scverse",
-  "commit": "7cc5403b05e299d7a4bb169c2bd8c27a2a7676f3",
-  "checkout": "v0.1.3",
-  "context": {
-    "cookiecutter": {
-      "project_name": "perturbvelo",
-      "package_name": "perturbvelo",
-      "project_description": "Probabilistic model of RNA metabolism perturbation response",
-      "author_full_name": "Pinello Lab",
-      "author_email": "cameron.ray.smith@gmail.com",
-      "github_user": "pinellolab",
-      "project_repo": "https://github.com/pinellolab/perturbvelo",
-      "license": "GNU General Public License Version 3",
-      "_copy_without_render": [
-        ".github/workflows/**.yaml",
-        "docs/_templates/autosummary/**.rst"
-      ],
-      "_template": "https://github.com/scverse/cookiecutter-scverse"
-    }
-  },
-  "directory": null
+    "template": "https://github.com/scverse/cookiecutter-scverse",
+    "commit": "7cc5403b05e299d7a4bb169c2bd8c27a2a7676f3",
+    "checkout": "v0.1.3",
+    "context": {
+        "cookiecutter": {
+            "project_name": "perturbvelo",
+            "package_name": "perturbvelo",
+            "project_description": "Probabilistic model of RNA metabolism perturbation response",
+            "author_full_name": "Pinello Lab",
+            "author_email": "cameron.ray.smith@gmail.com",
+            "github_user": "pinellolab",
+            "project_repo": "https://github.com/pinellolab/perturbvelo",
+            "license": "GNU General Public License Version 3",
+            "_copy_without_render": [
+                ".github/workflows/**.yaml",
+                "docs/_templates/autosummary/**.rst"
+            ],
+            "_template": "https://github.com/scverse/cookiecutter-scverse"
+        }
+    },
+    "directory": null
 }
